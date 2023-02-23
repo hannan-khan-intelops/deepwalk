@@ -1,3 +1,7 @@
+I modified this code is modified to be able to run on networkx graphs. Instead, use the
+`karateclub <https://karateclub.readthedocs.io/en/latest/index.html>`_ library, as it has other algorithms already coded.
+
+
 ===============================
 DeepWalk
 ===============================
